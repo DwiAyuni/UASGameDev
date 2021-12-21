@@ -1,4 +1,6 @@
-Untuk menjalankan program game teersebut menggunakan perintah yaitu : 
+Untuk menjalankan program game tersebut menggunakan navigasi: 
+
+
 Tombol Panah Kanan : Untuk memutar tembah ke arah kanan
 • Tombol Panah Kiri : Untuk memutar tembak ke arah kiri
 • Tombol Panah Atas : Untuk menambah kecepatan jalan tembak
